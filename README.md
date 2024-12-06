@@ -1,1 +1,1 @@
-# dotfiles
+This is my personal repo which I use to manage some of my dotfiles
